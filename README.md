@@ -33,9 +33,6 @@ Bumi Style Adalah sebuah aplikasi ecommarce berbasis web , nama ini terinsiparas
 
 *NOTE: disini baru bisa sebagai admin, belum bisa sebagai user*
 
-
-7
-
 ## Build Setup
 
 ```bash
