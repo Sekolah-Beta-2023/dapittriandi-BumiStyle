@@ -1,4 +1,40 @@
-# Bumi-Style-App
+## Bumi-Style-App
+Bumi Style Adalah sebuah aplikasi ecommarce berbasis web , nama ini terinsiparasi dari istilah anak bumi yang sedang trend.
+
+#aplikasi ini memiliki 5 menu yaitu:
+1.homepage
+2.product
+3.about
+4.user/pengguna
+5.logout
+
+#aplikasi ini terdapat beberapa fitur
+1.fitur CRUD pengguna:
+  -create pengguna dengan register 
+  -get Pengguna by username
+  -edit pengguna *fitur ini masih bermasalah karena terkena error cors*
+  -dan fitu delete pengguna
+2.fitur CRUD Product:
+  -create product
+  -Get product berdasarkan id
+  -edit product berdasarkan id
+  -delete product
+
+#alur pemakaian aplikasi:
+1.Tekan Tombol Masuk 
+2.Kemudian Register terlebih dahulu kemudian submit
+3.Setelah itu login Dengan username,email,dan password
+4.kemudian akan di arahkan dengan preview data pengguna,kemudian pergi ke homepage setelah itu tap shop now
+5.kemudian akan di arahkan ke halaman product 
+6.dan kita dapat mengedit product seperti mengubah datanya, dan menghapus product dengan menekan button detail.
+7.kemudian kita pergi ke halaman about untuk melihat tentang developer
+8.setelah itu pergi ke halaman setting profil disN kita dapat update dan menghapus data pengguna, *namun untuk update data pengguna belum bisa karena terkena error cors*
+9.kemudian kita bisa menekan tombol log out untuk keluar atau dengan menghapus akun otomatis logout.
+
+*NOTE: disini baru bisa sebagai admin, belum bisa sebagai user*
+
+
+7
 
 ## Build Setup
 
